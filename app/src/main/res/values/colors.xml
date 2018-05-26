@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffec43</color>
+    <color name="colorPrimaryDark">#a58f00</color>
+    <color name="Tabclolor">#3f568e</color>
+    <color name="Black">#000</color>
+    <color name="White">#FFF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background1">#29000000</color>
+</resources>
